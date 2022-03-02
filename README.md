@@ -1,6 +1,6 @@
 # shamo
 
-A new Flutter application.
+Aplikasi marketplace menggunakan Flutter dengan backend Laravel
 
 ## Getting Started
 
